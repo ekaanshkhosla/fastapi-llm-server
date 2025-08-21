@@ -14,6 +14,7 @@ The solution demonstrates how to integrate LLM APIs into a simple service with s
 
 ```
 ├── emails/                # Sample email files for testing
+├── data.csv               # Type of output we get
 ├── environment.yml        # Conda environment definition
 ├── main.py                # FastAPI server implementation
 └── public_test.py         # Public test script
