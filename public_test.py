@@ -76,5 +76,5 @@ if __name__ == "__main__":
         test_prefill_simple()
         print("All tests passed!")
     finally:
-        print("DONE")
+        print("DONE")      # Comment it if do not want to save data and uncommnet next line for cleanup
         # cleanup_csv()
