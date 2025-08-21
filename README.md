@@ -104,6 +104,4 @@ python public_test.py
 This will:
 - Call `/v1/chat/completions`
 - Call `/v1/prefill`
-- Display extracted CSV rows
-- Clean up `data.csv`
 
