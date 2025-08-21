@@ -1,0 +1,15 @@
+Subject: Invoice #FIN-789 from Global Finance Advisors - Financial Consulting
+From: finance@globalfa.com
+To: client@example.com
+Date: January 10, 2025
+
+Hello,
+
+We are issuing Invoice #FIN-789 after completing three consulting sessions in December 2024. 
+During these sessions, we uncovered opportunities for significant tax savings and advised your finance team 
+on restructuring investment portfolios. Your CFO expressed appreciation for the actionable risk management insights we provided.  
+
+The total invoice amount is £4,500.00 GBP.  
+Payment is due by February 10, 2025 in GBP.  
+This invoice corresponds to financial consulting services provided by Global Finance Advisors.  
+For billing questions, contact finance@globalfa.com or +44 20 7946 1234.  

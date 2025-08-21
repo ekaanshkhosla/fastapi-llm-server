@@ -1,0 +1,20 @@
+Subject: Invoice #EDU-202 from LearnPro Academy - Online Training Programs
+From: payments@learnpro.com
+To: client@example.com
+Date: January 18, 2025
+
+Dear Customer,
+
+This invoice covers two training programs delivered in January 2025: a Data Science Bootcamp with ten participants 
+and an Advanced Excel workshop for five staff members. Participants rated the sessions highly, particularly appreciating 
+the real-world case studies included in the curriculum.  
+
+Invoice Summary:  
+- Amount Due: £2,750.00 GBP  
+- Currency: GBP  
+- Due Date: February 18, 2025  
+- Description: Online Training Programs  
+- Company: LearnPro Academy  
+- Contact: payments@learnpro.com | +44 161 555 7289  
+
+We hope these skills will continue to benefit your team in daily tasks.  

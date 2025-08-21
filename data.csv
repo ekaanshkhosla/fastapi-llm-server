@@ -1,0 +1,12 @@
+amount,currency,due_date,description,company,contact
+1500.00,USD,2025-01-15,"Software development services for custom web application project - Phase 2 (Nov 1-30, 2024)",Acme Corp,billing@acme.com
+3250.00,EUR,2025-02-12,IT Consulting Services,BrightTech Solutions,accounts@brighttech.com
+9600.00,USD,2025-02-25,Custom Software Development,CodeMasters Inc.,accounts@codemasters.com
+2000.00,USD,2025-02-20,Graphic Design Services,Nexa Design Studio,billing@nexadesign.com
+4500.00,GBP,2025-02-10,Invoice #FIN-789 for financial consulting services including three consulting sessions in December 2024,Global Finance Advisors,finance@globalfa.com
+7800.00,USD,2025-03-05,Recruitment & HR Consulting,PeopleFirst HR,accounts@peoplefirst.com | (415) 555-3344
+5200.00,EUR,2025-02-28,Digital Marketing Services,CreativeHive Marketing,invoices@creativehive.com
+12400.00,USD,2025-03-01,Corporate Travel Arrangements,TravelPro Services,billing@travelpro.com
+2750.00,GBP,2025-02-18,Online Training Programs - Data Science Bootcamp and Advanced Excel workshop,LearnPro Academy,payments@learnpro.com
+6950.00,USD,2025-02-14,Construction Consulting Services,BuildRight Consultants,accounts@buildright.com
+4600,EUR,2025-03-02,Corporate Wellness Program,HealthMax Solutions,billing@healthmax.com

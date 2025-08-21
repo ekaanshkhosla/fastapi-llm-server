@@ -1,0 +1,22 @@
+Subject: Invoice INV-2025-002 from Nexa Design Studio - Graphic Design Services
+From: billing@nexadesign.com
+To: client@example.com
+Date: January 20, 2025
+
+Dear Partner,
+
+This invoice follows the design work carried out in January 2025. 
+Our team redesigned your corporate website with a modern mobile-first look, produced a full branding package, 
+and created brochures for the upcoming product launch. Your marketing manager mentioned that the new visuals were praised 
+during the executive preview session.
+
+| Field       | Value                          |
+|-------------|--------------------------------|
+| Amount Due  | $2,000.00 USD                  |
+| Currency    | USD                            |
+| Due Date    | February 20, 2025              |
+| Description | Graphic Design Services        |
+| Company     | Nexa Design Studio             |
+| Contact     | billing@nexadesign.com         |
+
+We greatly valued your team’s responsiveness, which helped us deliver under a tight deadline.  

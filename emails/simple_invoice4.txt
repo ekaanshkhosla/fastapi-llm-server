@@ -1,0 +1,20 @@
+Subject: Invoice #HR-556 from PeopleFirst HR - Recruitment Services
+From: accounts@peoplefirst.com
+To: client@example.com
+Date: February 5, 2025
+
+Dear Customer,
+
+We are sending Invoice #HR-556 for recruitment support provided in January 2025. 
+Our recruiters sourced candidates for five open positions, some of which were filled urgently to address an unexpected project need. 
+We also performed an HR compliance review, highlighting two policy adjustments your HR director agreed to implement this quarter.
+
+Invoice Summary:  
+- Amount: $7,800.00 USD  
+- Currency: USD  
+- Due Date: March 5, 2025  
+- Description: Recruitment & HR Consulting  
+- Company: PeopleFirst HR  
+- Contact: accounts@peoplefirst.com | (415) 555-3344  
+
+Thank you for your continued trust in our services.  

@@ -1,0 +1,21 @@
+Subject: Invoice #TR-902 from TravelPro Services - Corporate Travel Management
+From: billing@travelpro.com
+To: client@example.com
+Date: February 1, 2025
+
+Dear Finance Manager,
+
+In January 2025, we organized international travel for 15 employees attending the Berlin conference. 
+Despite last-minute itinerary changes, all arrangements were completed smoothly, and your team commended 
+our proactive handling of hotel reservations and travel insurance coverage.  
+
+| Field       | Value                          |
+|-------------|--------------------------------|
+| Amount Due  | $12,400.00 USD                 |
+| Currency    | USD                            |
+| Due Date    | March 1, 2025                  |
+| Description | Corporate Travel Arrangements  |
+| Company     | TravelPro Services             |
+| Contact     | billing@travelpro.com          |
+
+We are happy to have contributed to your successful event.  

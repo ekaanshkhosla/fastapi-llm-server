@@ -1,0 +1,21 @@
+Subject: Invoice #IT-990 from CodeMasters Inc. - Custom Software Development
+From: accounts@codemasters.com
+To: client@example.com
+Date: January 25, 2025
+
+Hello Team,
+
+In January 2025, our developers implemented new mobile app features and upgraded backend systems. 
+The milestone demo on January 20th confirmed successful delivery, and we also resolved several urgent bug fixes 
+raised by your QA team. Your product lead commended the rapid turnaround.  
+
+| Field       | Value                          |
+|-------------|--------------------------------|
+| Amount Due  | $9,600.00 USD                  |
+| Currency    | USD                            |
+| Due Date    | February 25, 2025              |
+| Description | Custom Software Development    |
+| Company     | CodeMasters Inc.               |
+| Contact     | accounts@codemasters.com       |
+
+We are eager to move into Phase 2 with your team.  

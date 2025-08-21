@@ -1,0 +1,19 @@
+Subject: Invoice #HC-445 from HealthMax Solutions - Corporate Wellness Program
+From: billing@healthmax.com
+To: client@example.com
+Date: February 2, 2025
+
+Dear HR Department,
+
+In January 2025, we hosted three wellness workshops and prepared personalized fitness plans for twenty employees. 
+Several participants expressed positive feedback, mentioning noticeable improvements in energy levels and morale. 
+Your HR team noted a visible increase in employee participation in wellness activities.  
+
+The invoice total is €4,600.00 EUR.  
+Currency: EUR.  
+Due Date: March 2, 2025.  
+Description: Corporate Wellness Program.  
+Company: HealthMax Solutions.  
+Contact: billing@healthmax.com | +49 40 2222 5555.  
+
+We are thrilled to see the program making a difference.  

@@ -1,0 +1,39 @@
+Subject: Invoice #INV-001 from Acme Corp - Software Development Services
+From: billing@acme.com
+To: client@example.com
+Date: December 15, 2024
+
+Dear Valued Customer,
+
+I hope this email finds you well. We are writing to inform you that your latest invoice has been generated and is now ready for processing.
+
+Please find attached invoice INV-001 for software development services rendered during the period of November 1-30, 2024. This invoice covers the completion of Phase 2 of your custom web application project, including:
+
+- Frontend React component development (40 hours)
+- Backend API implementation with FastAPI (35 hours) 
+- Database schema design and optimization (15 hours)
+- Unit testing and integration testing (20 hours)
+- Code review and documentation (10 hours)
+
+The total amount due is $1,500.00 USD (One Thousand Five Hundred Dollars) calculated at our standard rate of $125 per hour for 120 hours of development work.
+
+Payment Details:
+- Invoice Number: INV-001
+- Amount Due: $1,500.00 USD
+- Due Date: January 15, 2025 (Net 30 terms)
+- Payment Methods: Wire transfer, ACH, or check
+
+Please note that a late fee of 1.5% per month will be applied to any outstanding balance after the due date. We offer a 2% early payment discount if payment is received within 10 days of this invoice date.
+
+If you have any questions regarding this invoice or need clarification on any line items, please don't hesitate to contact our billing department. We value your partnership and look forward to continuing our work together on the remaining project phases.
+
+Thank you for choosing Acme Corp for your software development needs.
+
+Best regards,
+
+Sarah Johnson
+Billing Department Manager
+Acme Corp
+Email: billing@acme.com
+Phone: (555) 123-4567
+www.acmecorp.com
